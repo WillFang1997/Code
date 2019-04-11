@@ -80,8 +80,8 @@ App({
   globalData: {
     userInfo: null,
     userOpenId:null,
-    okayapiHost: "https://hn216.api.okayapi.com/", // TODO: 配置成你所在的接口域名
-    okayApiAppKey: "0D19F4F8568B4232213F87FC45C03253", // TODO：改为你的APP_KEY
-    okayApiAppSecrect: "5Xqv89LNKEaMJaboVrRFr5rdbeLY9OEculhjmeS3PSMReLzZvB1GG2WA9pXo8I" // TODO：改为你的APP_SECRECT
+    okayapiHost: "您的接口域名", // TODO: 配置成你所在的接口域名
+    okayApiAppKey: "您的appkey", // TODO：改为你的APP_KEY 在http://open.yesapi.cn/?r=App/Mine寻找
+    okayApiAppSecrect: "您的appsecret" // TODO：改为你的APP_SECRECT
   }
 });
